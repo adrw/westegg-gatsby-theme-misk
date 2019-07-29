@@ -10,6 +10,10 @@ $ yarn install
 $ yarn workspace demo develop
 ```
 
+## Demo
+
+Deployed with Netlify at [misk.westegg.xyz](https://misk.westegg.xyz/)
+
 ## Examples
 
 Misk-Web Docs Site at [cashapp.github.io/misk-web](https://cashapp.github.io/misk-web/)
