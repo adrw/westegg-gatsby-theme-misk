@@ -1,6 +1,6 @@
 # Westegg-Gatsby-Theme-Misk
 
-[![CircleCI](https://circleci.com/gh/adrw/gatsby-theme-jam-example.svg?style=svg)](https://circleci.com/gh/adrw/gatsby-theme-jam-example)
+[![CircleCI](https://circleci.com/gh/adrw/westegg-gatsby-theme-misk.svg?style=svg)](https://circleci.com/gh/adrw/westegg-gatsby-theme-misk)
 
 A submission to [Gatsby Theme Jam](https://themejam.gatsbyjs.org/). Lives in [Westegg](https://github.com/westegg/westegg).
 
