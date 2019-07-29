@@ -5,6 +5,7 @@
     "demo"
   ],
   "scripts": {
-    "build": "yarn workspace demo build"
+    "build": "yarn workspace demo build",
+    "refresh": "cp -r ../westegg/@westegg/gatsby-theme-misk/* westegg-gatsby-theme-misk/"
   }
 }
