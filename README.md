@@ -26,6 +26,6 @@ Building a theme with Gatsby worked well and [the new Misk-Web docs site is now 
 
 ## Westegg
 
-This theme and demo also lives in [Westegg](https://github.com/westegg/westegg), a monorepo and directory for Gatsby Themes that I'm hoping to collaborate with others on moving forward.
+This theme and demo also lives in [Westegg](https://github.com/westegg/westegg), a collaborative monorepo and directory for Gatsby Themes.
 
 Go Gatsby Themes 🎉
