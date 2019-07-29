@@ -16,11 +16,11 @@ Deployed with Netlify at [misk.westegg.xyz](https://misk.westegg.xyz/)
 
 ## Examples
 
-Misk-Web Docs Site at [cashapp.github.io/misk-web](https://cashapp.github.io/misk-web/)
+- Misk-Web Docs Site at [cashapp.github.io/misk-web](https://cashapp.github.io/misk-web/)
 
 ## Motivation
 
-I wanted to build a docs site for [Misk-Web](https://github.com/cashapp/misk-web) using Gatsby Themes. 
+I wanted to build a docs site for [Misk-Web](https://github.com/cashapp/misk-web) using Gatsby Themes.
 
 Building a theme with Gatsby worked well and [the new Misk-Web docs site is now live](https://cashapp.github.io/misk-web/)!
 
