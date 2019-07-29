@@ -3,5 +3,8 @@
   "workspaces": [
     "gatsby-theme-misk",
     "demo"
-  ]
+  ],
+  "scripts": {
+    "build": "yarn workspace demo build"
+  }
 }
