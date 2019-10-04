@@ -23,7 +23,7 @@
     "gatsby-theme-digital-garden": "0.2.3"
   },
   "devDependencies": {
-    "@misk/prettier": "0.1.21"
+    "@misk/prettier": "0.1.22"
   },
   "prettier": "@misk/prettier",
   "keywords": [
