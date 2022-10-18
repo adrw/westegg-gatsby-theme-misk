@@ -2224,7 +2224,7 @@
     gatsby-theme-digital-garden-blog "0.2.0"
     gatsby-theme-digital-garden-portfolio "0.2.0"
 
-"@westegg/gatsby-theme-misk@*":
+"@westegg/gatsby-theme-misk@0.0.13":
   version "0.0.13"
   resolved "https://registry.yarnpkg.com/@westegg/gatsby-theme-misk/-/gatsby-theme-misk-0.0.13.tgz#4ccd9cabdc88454447157a7b03ba87210c15b378"
   integrity sha512-D1L3Xasmxk0wTIy+XRKfg5EUjM0Zrbz4clZJLfRFlyxrJ/3dBPE0JaLCfr7zgEMqNnnIVpRJomECj4+1AFWcNg==
