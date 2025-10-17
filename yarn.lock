@@ -12661,15 +12661,12 @@ react-dom@16.8.6, react-dom@^16.8.4:
     prop-types "^15.6.2"
     scheduler "^0.13.6"
 
-react-dom@16.9.0:
-  version "16.9.0"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
-  integrity sha512-YFT2rxO9hM70ewk9jq0y6sQk8cL02xm4+IzYBz75CQGlClQQ1Bxq0nhHF6OtSbit+AIahujJgb/CPRibFkMNJQ==
+react-dom@19.2.0:
+  version "19.2.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.2.0.tgz#00ed1e959c365e9a9d48f8918377465466ec3af8"
+  integrity sha512-UlbRu4cAiGaIewkPyiRGJk0imDN2T3JjieT6spoL2UeSf5od4n5LB/mQ4ejmxhCFT1tYe8IvaFulzynWovsEFQ==
   dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    scheduler "^0.15.0"
+    scheduler "^0.27.0"
 
 react-error-overlay@^3.0.0:
   version "3.0.0"
@@ -13056,14 +13053,10 @@ react@16.8.6, react@^16.8.0, react@^16.8.4:
     prop-types "^15.6.2"
     scheduler "^0.13.6"
 
-react@16.9.0:
-  version "16.9.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
-  integrity sha512-+7LQnFBwkiw+BobzOF6N//BdoNw0ouwmSJTEm9cglOOmsg/TMiFHZLe2sEoN5M7LgJTj9oHH0gxklfnQe66S1w==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
+react@19.2.0:
+  version "19.2.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.2.0.tgz#d33dd1721698f4376ae57a54098cb47fc75d93a5"
+  integrity sha512-tmbWg6W31tQLeB5cdIBOicJDJRR2KzXsV7uSK9iNfLWQ5bIZfxuPEHp7M8wiHyHnn0DD1i7w3Zmin0FtkrwoCQ==
 
 read-chunk@^3.0.0:
   version "3.2.0"
@@ -13824,13 +13817,10 @@ scheduler@^0.13.2, scheduler@^0.13.6:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
-scheduler@^0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.15.0.tgz#6bfcf80ff850b280fed4aeecc6513bc0b4f17f8e"
-  integrity sha512-xAefmSfN6jqAa7Kuq7LIJY0bwAPG3xlCj0HMEBQk1lxYiDKZscY2xJ5U/61ZTrYbmNQbXa+gc7czPkVo11tnCg==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
+scheduler@^0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.27.0.tgz#0c4ef82d67d1e5c1e359e8fc76d3a87f045fe5bd"
+  integrity sha512-eNv+WrVbKu1f3vbYJT/xtiF5syA5HPIMtf9IgY/nKg0sWqzAUEvqY/xm7OcZc/qafLx/iO9FgOmeSAp4v5ti/Q==
 
 schema-utils@^0.4.0, schema-utils@^0.4.4, schema-utils@^0.4.5:
   version "0.4.7"
