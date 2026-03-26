@@ -12,7 +12,7 @@
     "@westegg/gatsby-theme-core": "0.0.13",
     "@westegg/gatsby-theme-misk": "0.0.13",
     "gatsby": "2.13.76",
-    "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   }
 }
